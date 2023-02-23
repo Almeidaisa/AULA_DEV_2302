@@ -2,5 +2,4 @@
 
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
-![This is an image] (
-![meme-pra-que-quem-e-o-garoto-das-fotos-e-origem-da-brincadeira-1024x655](https://user-images.githubusercontent.com/125597235/220901913-805a1c4d-099f-4652-ad58-ee886512c919.png)
+![This is an image] (https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/35211_4DA8E347FB9842EB.jpg?w=876&h=484&crop=1)
